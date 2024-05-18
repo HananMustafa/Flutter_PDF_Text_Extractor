@@ -8,3 +8,9 @@ Framework: Flutter
 Language: Dart
 easy peasy :)
 
+Pre-requisites:
+vscode/android studio
+flutter/dart setup.
+
+How to run this application?
+Actually you have nothing to do to run this application, its so simple :)
