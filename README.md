@@ -6,6 +6,7 @@ This Repo is all about 'Extracting the Text from a PDF File". This code simply p
 Technology:
 Framework: Flutter
 Language: Dart
+Platform: Android
 easy peasy :)
 
 Pre-requisites:
